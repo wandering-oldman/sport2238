@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3200000
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/110698.m3u8&token=
