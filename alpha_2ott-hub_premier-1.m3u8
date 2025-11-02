@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:c2:e9:a6&stream=1379231&extension=m3u8
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:00:20:CB&stream=1032529&extension=m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:12:1B:60&stream=1903770&extension=m3u8&play_token=
+http://line.greatstar.me:80/play/live.php?mac=A0:BB:3E:00:DD:E3&stream=1032529&extension=m3u8&play_token=
+http://trendystream.me:80/play/live.php?mac=00:1A:79:A9:2F:DD&stream=1032529&extension=m3u8&play_token=
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:0D:9B:6D&stream=1309855&extension=m3u8&play_token=
