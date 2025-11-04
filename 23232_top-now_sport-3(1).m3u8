@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
-http://109.61.81.147:1935/cdn7/767/mpegts?token=71e80aa1e3858351e5cf768076069055
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=894968&extension=m3u8
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112229.m3u8
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/6201.m3u8
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/75478.m3u8
