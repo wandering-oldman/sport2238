@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/112231.m3u8
+http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:D9:F2:FB&stream=802488&extension=m3u8
 http://egaletv.cc:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=264396&extension=m3u8
 http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:43:68:50&stream=1032529&extension=m3u8
